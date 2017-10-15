@@ -1,0 +1,2 @@
+This is simple JavaScript processing of big amount of data. There are 6 conferences with list of registered participants(e-mail addresses). We try to answer three questions: how many participated in more than 3 conferences, how many work in WOK company (e-mail: xxx@wok.zz) and from how many countries participants came. This is to show in a simple way how to process data using loops and conditions in JS. 
+enjoy
